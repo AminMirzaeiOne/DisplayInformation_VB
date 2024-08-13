@@ -26,4 +26,4 @@ It receives the name, age and height from the user, then displays them on the co
 6 - View the result
 
 <h2>📷 Screenshots</h2>
-![Screenshot (Pro1)](https://github.com/user-attachments/assets/ffa14edd-10b8-4f2f-92c6-d2c800068273)
+<img width="675" alt="Capture" src="https://github.com/user-attachments/assets/ffa14edd-10b8-4f2f-92c6-d2c800068273">
